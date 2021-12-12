@@ -1,1 +1,1 @@
-# winequality-white
+# White Wine Quality Dataset
